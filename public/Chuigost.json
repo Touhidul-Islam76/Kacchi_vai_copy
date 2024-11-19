@@ -1,0 +1,28 @@
+[
+    {
+        "id":1,
+        "img":"https://cdn.prod.website-files.com/63de61fd6af00b31333c0d3a/64230d97fe0bcf9cf68e5823_kacchi_bhai_chui_jhal_gosto_with_plain_rice_or_polao.jpeg",
+        "title":"Chuizhal Gost,Plain Rice / Polao",
+        "per":"https://cdn.prod.website-files.com/63de61fd6af00b31333c0d3a/64231efb9a0d0baa06a7f017_One%20person.webp",
+        "per2":"https://cdn.prod.website-files.com/63de61fd6af00b31333c0d3a/642128ce5220aa27470d6cf0_Icon%203.webp",
+        "per3":"https://cdn.prod.website-files.com/63de61fd6af00b31333c0d3a/642129eff2602a7f50fb69de_Icon%205.webp",
+        "price":{
+            "mrp":"230/-",
+            "mrp2":"680/-",
+            "mrp3":"1100/-"
+        }
+    },
+    {
+        "id":2,
+        "img":"https://cdn.prod.website-files.com/63de61fd6af00b31333c0d3a/64230d97fe0bcf30e38e5822_kacchi_bhai_chui_jhal_gosto.jpeg",
+        "title":"Chuizhal Gost",
+        "per":"https://cdn.prod.website-files.com/63de61fd6af00b31333c0d3a/64231efb9a0d0baa06a7f017_One%20person.webp",
+        "per2":"https://cdn.prod.website-files.com/63de61fd6af00b31333c0d3a/642128ce5220aa27470d6cf0_Icon%203.webp",
+        "per3":"https://cdn.prod.website-files.com/63de61fd6af00b31333c0d3a/642129eff2602a7f50fb69de_Icon%205.webp",
+        "price":{
+            "mrp":"180/-",
+            "mrp2":"530/-",
+            "mrp3":"850/-"
+        }
+    }
+]

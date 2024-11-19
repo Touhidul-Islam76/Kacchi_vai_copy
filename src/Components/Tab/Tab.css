@@ -1,0 +1,13 @@
+.btn:hover{
+    background-color: #FFCBCB;
+
+}
+.tab-btn button.active{
+    background-color: #FF0000;
+    color: white;
+}
+.btn{
+    border-radius: 48px;
+    border: 2px solid #FF0000;
+}
+

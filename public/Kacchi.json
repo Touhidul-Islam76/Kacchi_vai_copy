@@ -1,0 +1,84 @@
+[
+    {
+        "id":1,
+        "img":"https://cdn.prod.website-files.com/63de61fd6af00b31333c0d3a/64205ee67e674a413bdf79a7_kacchi_bhai_basmati_kacchi_thumbnail_1649579791606%20(1).jpeg",
+        "title":"Basmati kacchi",
+        "per":"https://cdn.prod.website-files.com/63de61fd6af00b31333c0d3a/64231efb9a0d0baa06a7f017_One%20person.webp",
+        "per2":"https://cdn.prod.website-files.com/63de61fd6af00b31333c0d3a/642128ce5220aa27470d6cf0_Icon%203.webp",
+        "per3":"https://cdn.prod.website-files.com/63de61fd6af00b31333c0d3a/642129eff2602a7f50fb69de_Icon%205.webp",
+        "price":{
+            "mrp":"300/-",
+            "mrp2":"890/-",
+            "mrp3":"1480/-"
+        }
+    
+        
+    },
+    {
+        "id":2,
+        "img":"https://cdn.prod.website-files.com/63de61fd6af00b31333c0d3a/641d41b7a61ee06c5f1a2b6c_kacchi_bhai_kacchi_khadok_thumbnail_1649580256406%20(2).jpeg",
+        "title":"Cuttlefish eaters",
+        "per":"https://cdn.prod.website-files.com/63de61fd6af00b31333c0d3a/64231efb9a0d0baa06a7f017_One%20person.webp",
+        "per2":"https://cdn.prod.website-files.com/63de61fd6af00b31333c0d3a/642128ce5220aa27470d6cf0_Icon%203.webp",
+        "per3":"https://cdn.prod.website-files.com/63de61fd6af00b31333c0d3a/642129eff2602a7f50fb69de_Icon%205.webp",
+        "price":{
+            "mrp":"490/-",
+            "mrp2":"1320/-",
+            "mrp3":"2250/-"
+        }
+    },
+    {
+        "id":3,
+        "img":"https://cdn.prod.website-files.com/63de61fd6af00b31333c0d3a/64205ee6cc09c9a44ac85d9a_kacchi_bhai_basmati_kacchi_with_borhani_and_firni_thumbnail_1649580297969.jpeg",
+        "title":"basmati kacchi,Borhani, Firni",
+        "per":"https://cdn.prod.website-files.com/63de61fd6af00b31333c0d3a/64231efb9a0d0baa06a7f017_One%20person.webp",
+        "per2":"https://cdn.prod.website-files.com/63de61fd6af00b31333c0d3a/642128ce5220aa27470d6cf0_Icon%203.webp",
+        "per3":"https://cdn.prod.website-files.com/63de61fd6af00b31333c0d3a/642129eff2602a7f50fb69de_Icon%205.webp",
+        "price":{
+            "mrp":"420/-",
+            "mrp2":"1240/-",
+            "mrp3":"2050/-"
+        }
+    },
+    {
+        "id":4,
+        "img":"https://cdn.prod.website-files.com/63de61fd6af00b31333c0d3a/65901ff9a382130630543918_1-Person-p-1080.webp",
+        "title":"Kachchi, Badam Sharbat, Jali Kebab",
+        "per":"https://cdn.prod.website-files.com/63de61fd6af00b31333c0d3a/64231efb9a0d0baa06a7f017_One%20person.webp",
+        "per2":"https://cdn.prod.website-files.com/63de61fd6af00b31333c0d3a/642128ce5220aa27470d6cf0_Icon%203.webp",
+        "per3":"https://cdn.prod.website-files.com/63de61fd6af00b31333c0d3a/642129eff2602a7f50fb69de_Icon%205.webp",
+        "price":{
+            "mrp":"430/-",
+            "mrp2":"1280/-",
+            "mrp3":"2120/-"
+        }
+    
+        
+    },
+    {
+        "id":5,
+        "img":"https://cdn.prod.website-files.com/63de61fd6af00b31333c0d3a/64205ee6cc09c9a44ac85d9a_kacchi_bhai_basmati_kacchi_with_borhani_and_firni_thumbnail_1649580297969.jpeg",
+        "title":"Basmati Kachchi, Chicken Roast, Borhani, Jali Kebab",
+        "per":"https://cdn.prod.website-files.com/63de61fd6af00b31333c0d3a/64231efb9a0d0baa06a7f017_One%20person.webp",
+        "per2":"https://cdn.prod.website-files.com/63de61fd6af00b31333c0d3a/642128ce5220aa27470d6cf0_Icon%203.webp",
+        "per3":"https://cdn.prod.website-files.com/63de61fd6af00b31333c0d3a/642129eff2602a7f50fb69de_Icon%205.webp",
+        "price":{
+            "mrp":"550/-",
+            "mrp2":"1630/-",
+            "mrp3":"2690/-"
+        }
+    },
+    {
+        "id":6,
+        "img":"https://cdn.prod.website-files.com/63de61fd6af00b31333c0d3a/64230d6d8ba773babbf4ced5_kacchi_bhai_basmati_kacchi_with_beef_rezala_jali_kabab_and_borhani.jpeg",
+        "title":"Basmati Kacchi, Beef Rezala, Borhani, Jali Kebab",
+        "per":"https://cdn.prod.website-files.com/63de61fd6af00b31333c0d3a/64231efb9a0d0baa06a7f017_One%20person.webp",
+        "per2":"https://cdn.prod.website-files.com/63de61fd6af00b31333c0d3a/642128ce5220aa27470d6cf0_Icon%203.webp",
+        "per3":"https://cdn.prod.website-files.com/63de61fd6af00b31333c0d3a/642129eff2602a7f50fb69de_Icon%205.webp",
+        "price":{
+            "mrp":"580/-",
+            "mrp2":"1690/-",
+            "mrp3":"2790/-"
+        }
+    }
+]

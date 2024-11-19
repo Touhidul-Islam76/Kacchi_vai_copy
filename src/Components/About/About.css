@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding:0;
+    overflow-x: hidden;
+    /* overflow-y: hidden; */
+    box-sizing: border-box;
+}
+.about-img{
+    overflow-y: hidden;
+}
+/* App.css */
+
+
+.about-img-title, .story p, .ceo-para{
+    font-family:cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.ceo-img{
+    animation: bounce 2s ease-in-out infinite;
+}
+
+@keyframes bounce {
+ 0%,100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-15px);
+  }
+}

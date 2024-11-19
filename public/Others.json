@@ -1,0 +1,57 @@
+[
+    {
+        "id":1,
+        "img":"https://cdn.prod.website-files.com/63de61fd6af00b31333c0d3a/64230dd581c8124971215bb1_kacchi_bhai_plain_polao.avif",
+        "title":"Plain Polao",
+        "per":"https://cdn.prod.website-files.com/63de61fd6af00b31333c0d3a/64231efb9a0d0baa06a7f017_One%20person.webp",
+        "price":{
+            "mrp":"120/-",
+            "mrp2":"400/-",
+            "mrp3":"700/-"
+        }
+    },
+    {
+        "id":2,
+        "img":"https://cdn.prod.website-files.com/63de61fd6af00b31333c0d3a/64230dd45a6841ce6ac11ae1_kacchi_bhai_chicken_roast.avif",
+        "title":"Roast chicken",
+        "per":"https://cdn.prod.website-files.com/63de61fd6af00b31333c0d3a/64231efb9a0d0baa06a7f017_One%20person.webp",
+        "price":{
+            "mrp":"150/-",
+            "mrp2":"300/-",
+            "mrp3":"450/-"
+        }
+    },
+    {
+        "id":3,
+        "img":"https://cdn.prod.website-files.com/63de61fd6af00b31333c0d3a/64230dd50dfee27cbe903f92_kacchi_bhai_gorur_rezala.avif",
+        "title":"Beef Rezala",
+        "per":"https://cdn.prod.website-files.com/63de61fd6af00b31333c0d3a/64231efb9a0d0baa06a7f017_One%20person.webp",
+        "price":{
+            "mrp":"200/-",
+            "mrp2":"400/-",
+            "mrp3":"600/-"
+        }
+    },
+    {
+        "id":4,
+        "img":"https://cdn.prod.website-files.com/63de61fd6af00b31333c0d3a/64230dd43b5bd7bc25b875d6_kacchi_bhai_jali_kabab.avif",
+        "title":"Jali Kebab",
+        "per":"https://cdn.prod.website-files.com/63de61fd6af00b31333c0d3a/64231efb9a0d0baa06a7f017_One%20person.webp",
+        "price":{
+            "mrp":"60/-",
+            "mrp2":"120/-",
+            "mrp3":"180/-"
+        }
+    },
+    {
+        "id":5,
+        "img":"https://cdn.prod.website-files.com/63de61fd6af00b31333c0d3a/64247627585c927f0a4f19f6_F9KWC2EJYOOQ1OJ.avif",
+        "title":"Chutney",
+        "per":"https://cdn.prod.website-files.com/63de61fd6af00b31333c0d3a/64231efb9a0d0baa06a7f017_One%20person.webp",
+        "price":{
+            "mrp":"20/-",
+            "mrp2":"40/-",
+            "mrp3":"60/-"
+        }
+    }
+]
